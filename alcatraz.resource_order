@@ -1,12 +1,12 @@
 {
   "FolderOrderSettings": [
+    {"name":"Animation Curves","order":18,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":20,"path":"folders/Extensions.yy",},
+    {"name":"Notes","order":19,"path":"folders/Notes.yy",},
+    {"name":"Particle Systems","order":21,"path":"folders/Particle Systems.yy",},
     {"name":"Scripts","order":15,"path":"folders/Scripts.yy",},
     {"name":"Shaders","order":16,"path":"folders/Shaders.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
-    {"name":"Animation Curves","order":18,"path":"folders/Animation Curves.yy",},
-    {"name":"Notes","order":19,"path":"folders/Notes.yy",},
-    {"name":"Extensions","order":20,"path":"folders/Extensions.yy",},
-    {"name":"Particle Systems","order":21,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
