@@ -73,6 +73,7 @@
     {"name":"snd_music_menu","order":1,"path":"sounds/snd_music_menu/snd_music_menu.yy",},
     {"name":"snd_bat_shoot","order":7,"path":"sounds/snd_bat_shoot/snd_bat_shoot.yy",},
     {"name":"Template_Readme","order":14,"path":"notes/Template_Readme/Template_Readme.yy",},
+    {"name":"obj_coin","order":3,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"snd_fountain","order":3,"path":"sounds/snd_fountain/snd_fountain.yy",},
     {"name":"spr_hud_heart","order":1,"path":"sprites/spr_hud_heart/spr_hud_heart.yy",},
     {"name":"spr_bat_projectile_splatter","order":2,"path":"sprites/spr_bat_projectile_splatter/spr_bat_projectile_splatter.yy",},

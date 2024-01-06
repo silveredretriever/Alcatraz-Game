@@ -134,6 +134,7 @@
     {"id":{"name":"snd_bat_shoot","path":"sounds/snd_bat_shoot/snd_bat_shoot.yy",},},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},},
     {"id":{"name":"Template_Readme","path":"notes/Template_Readme/Template_Readme.yy",},},
+    {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"ts_walls","path":"tilesets/ts_walls/ts_walls.yy",},},
     {"id":{"name":"snd_fountain","path":"sounds/snd_fountain/snd_fountain.yy",},},
     {"id":{"name":"obj_baddie","path":"objects/obj_baddie/obj_baddie.yy",},},
