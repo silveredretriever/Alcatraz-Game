@@ -91,6 +91,7 @@
     {"name":"spr_player_walk_up","order":3,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
     {"name":"obj_chest","order":4,"path":"objects/obj_chest/obj_chest.yy",},
     {"name":"spr_entrance_particle","order":8,"path":"sprites/spr_entrance_particle/spr_entrance_particle.yy",},
+    {"name":"obj_sword_attack","order":4,"path":"objects/obj_sword_attack/obj_sword_attack.yy",},
     {"name":"spr_gate_iron_2","order":6,"path":"sprites/spr_gate_iron_2/spr_gate_iron_2.yy",},
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
