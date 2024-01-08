@@ -129,6 +129,7 @@
     {"id":{"name":"snd_hurt","path":"sounds/snd_hurt/snd_hurt.yy",},},
     {"id":{"name":"snd_shield_deactivate","path":"sounds/snd_shield_deactivate/snd_shield_deactivate.yy",},},
     {"id":{"name":"snd_footstep","path":"sounds/snd_footstep/snd_footstep.yy",},},
+    {"id":{"name":"obj_chest_open","path":"objects/obj_chest_open/obj_chest_open.yy",},},
     {"id":{"name":"spr_heart_pickup","path":"sprites/spr_heart_pickup/spr_heart_pickup.yy",},},
     {"id":{"name":"snd_music_menu","path":"sounds/snd_music_menu/snd_music_menu.yy",},},
     {"id":{"name":"snd_bat_shoot","path":"sounds/snd_bat_shoot/snd_bat_shoot.yy",},},

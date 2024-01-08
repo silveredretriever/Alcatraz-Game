@@ -69,6 +69,7 @@
     {"name":"snd_hurt","order":2,"path":"sounds/snd_hurt/snd_hurt.yy",},
     {"name":"snd_shield_deactivate","order":6,"path":"sounds/snd_shield_deactivate/snd_shield_deactivate.yy",},
     {"name":"snd_footstep","order":1,"path":"sounds/snd_footstep/snd_footstep.yy",},
+    {"name":"obj_chest_open","order":9,"path":"objects/obj_chest_open/obj_chest_open.yy",},
     {"name":"spr_heart_pickup","order":2,"path":"sprites/spr_heart_pickup/spr_heart_pickup.yy",},
     {"name":"snd_music_menu","order":1,"path":"sounds/snd_music_menu/snd_music_menu.yy",},
     {"name":"snd_bat_shoot","order":7,"path":"sounds/snd_bat_shoot/snd_bat_shoot.yy",},
