@@ -180,6 +180,7 @@
     {"id":{"name":"spr_loose_rocks","path":"sprites/spr_loose_rocks/spr_loose_rocks.yy",},},
     {"id":{"name":"obj_torch_glow","path":"objects/obj_torch_glow/obj_torch_glow.yy",},},
     {"id":{"name":"spr_gate_gold_1","path":"sprites/spr_gate_gold_1/spr_gate_gold_1.yy",},},
+    {"id":{"name":"obj_gate","path":"objects/obj_gate/obj_gate.yy",},},
     {"id":{"name":"snd_sword_swing","path":"sounds/snd_sword_swing/snd_sword_swing.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
   ],

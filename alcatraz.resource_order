@@ -106,6 +106,7 @@
     {"name":"spr_powerup_invinc","order":4,"path":"sprites/spr_powerup_invinc/spr_powerup_invinc.yy",},
     {"name":"spr_loose_rocks","order":2,"path":"sprites/spr_loose_rocks/spr_loose_rocks.yy",},
     {"name":"spr_gate_gold_1","order":9,"path":"sprites/spr_gate_gold_1/spr_gate_gold_1.yy",},
+    {"name":"obj_gate","order":10,"path":"objects/obj_gate/obj_gate.yy",},
     {"name":"snd_sword_swing","order":3,"path":"sounds/snd_sword_swing/snd_sword_swing.yy",},
   ],
 }
