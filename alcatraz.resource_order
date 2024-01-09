@@ -30,6 +30,7 @@
     {"name":"spr_baddie_walk_down","order":1,"path":"sprites/spr_baddie_walk_down/spr_baddie_walk_down.yy",},
     {"name":"spr_tileset_floor","order":1,"path":"sprites/spr_tileset_floor/spr_tileset_floor.yy",},
     {"name":"snd_shield_loop","order":5,"path":"sounds/snd_shield_loop/snd_shield_loop.yy",},
+    {"name":"obj_next_level","order":11,"path":"objects/obj_next_level/obj_next_level.yy",},
     {"name":"spr_help_window","order":7,"path":"sprites/spr_help_window/spr_help_window.yy",},
     {"name":"spr_logo_white","order":5,"path":"sprites/spr_logo_white/spr_logo_white.yy",},
     {"name":"spr_entrance","order":7,"path":"sprites/spr_entrance/spr_entrance.yy",},
