@@ -14,19 +14,21 @@ if(_player_exists)
 	// Draw the player's coins value
 	// Taken from the player
 	// using obj_player.coins
-	draw_text(1135, 15, string("x") + string(obj_player.coins));
+	draw_text(100, 100, string());
+	draw_text(room_width - 100, 15, string("x") + string(obj_player.coins));
 	
 	if _timer_run
 	{
-		milliseconds = floor(get_timer()/10000) % 100;
-		seconds = floor(get_timer()/1000000) % 60;
+		timer += time.delta_time
+		milliseconds = floor(timer/10000) % 100;
+		seconds = floor(timer/1000000) % 60;
 		if string_length(string(seconds)) < 2
 		{
 			seconds = string("0") + string(seconds);
 		}
-		minutes = floor(get_timer()/60000000);
+		minutes = floor(timer/60000000);
 		time = string(minutes) + ":" + string(seconds) + "." + string(milliseconds);
 	
-		draw_text(5, 5, time);
+		draw_text(15, 15, time);
 	}
 }

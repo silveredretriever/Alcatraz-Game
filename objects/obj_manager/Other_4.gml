@@ -1,3 +1,4 @@
+timer = 0;
 milliseconds = 0;
 seconds = 0;
 minutes = 0;
