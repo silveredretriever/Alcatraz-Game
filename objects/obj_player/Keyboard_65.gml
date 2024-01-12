@@ -17,3 +17,4 @@ image_index += 0;
 // it was moving in
 image_xscale = -1;
 image_yscale = 1;
+input_direction = 180;

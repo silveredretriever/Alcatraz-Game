@@ -11,3 +11,4 @@ image_index += 0;
 // right again
 image_xscale = 1;
 image_yscale = 1;
+input_direction = 0;
