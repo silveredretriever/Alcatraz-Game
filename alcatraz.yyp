@@ -171,6 +171,7 @@
     {"id":{"name":"spr_hud_coin","path":"sprites/spr_hud_coin/spr_hud_coin.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"spr_next_level","path":"sprites/spr_next_level/spr_next_level.yy",},},
+    {"id":{"name":"obj_player_defeated","path":"objects/obj_player_defeated/obj_player_defeated.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
     {"id":{"name":"snd_finish_level","path":"sounds/snd_finish_level/snd_finish_level.yy",},},
     {"id":{"name":"snd_music_rampage","path":"sounds/snd_music_rampage/snd_music_rampage.yy",},},

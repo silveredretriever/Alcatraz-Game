@@ -19,7 +19,7 @@ if(_player_exists)
 	// Draws the health in the bottom left
 	var _heart_width = sprite_get_width(spr_hud_heart);
 	var _width_count = 0;
-	for(var _iterate = 5; _iterate > 0; --_iterate) {
+	for(var _iterate = obj_player.hearts; _iterate > 0; --_iterate) {
 		draw_sprite(spr_hud_heart, 0, 15 + _width_count, view_hport - 65);
 		_width_count += _heart_width;
 	}
