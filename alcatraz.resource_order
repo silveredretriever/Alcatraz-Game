@@ -11,6 +11,8 @@
     {"name":"Scripts","order":15,"path":"folders/Scripts.yy",},
     {"name":"Shaders","order":16,"path":"folders/Shaders.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
+    {"name":"Dialogue","order":5,"path":"folders/Objects/Dialogue.yy",},
+    {"name":"Dialogue Sprites","order":1,"path":"folders/Sprites/Dialogue Sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
@@ -104,6 +106,7 @@
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"spr_next_level","order":13,"path":"sprites/spr_next_level/spr_next_level.yy",},
     {"name":"obj_player_defeated","order":6,"path":"objects/obj_player_defeated/obj_player_defeated.yy",},
+    {"name":"obj_test_dialogue","order":1,"path":"objects/obj_test_dialogue/obj_test_dialogue.yy",},
     {"name":"snd_finish_level","order":2,"path":"sounds/snd_finish_level/snd_finish_level.yy",},
     {"name":"snd_music_rampage","order":3,"path":"sounds/snd_music_rampage/snd_music_rampage.yy",},
     {"name":"snd_player_defeated","order":4,"path":"sounds/snd_player_defeated/snd_player_defeated.yy",},
