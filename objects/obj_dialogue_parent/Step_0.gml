@@ -1,6 +1,8 @@
 if (showing_dialogue == false) {
-	if (dialog.count <= 0) {
+	obj_manager.timer_run = false;
+	if (dialog.count() <= 0) {
 		instance_destroy();
+		obj_manager.timer_run = true;
 		return;
 	}
 	

@@ -173,6 +173,7 @@
     {"id":{"name":"obj_sword_attack","path":"objects/obj_sword_attack/obj_sword_attack.yy",},},
     {"id":{"name":"spr_gate_iron_2","path":"sprites/spr_gate_iron_2/spr_gate_iron_2.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
+    {"id":{"name":"fnt_dialogue","path":"fonts/fnt_dialogue/fnt_dialogue.yy",},},
     {"id":{"name":"spr_hud_coin","path":"sprites/spr_hud_coin/spr_hud_coin.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"spr_next_level","path":"sprites/spr_next_level/spr_next_level.yy",},},

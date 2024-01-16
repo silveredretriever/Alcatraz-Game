@@ -5,9 +5,7 @@ if (showing_dialogue == true) {
 	var _border = 5;
 	var _padding = 16;
 	
-	show_debug_message(current_dialogue)
-	var _the_string = (current_dialogue.message_text);
-	_height = string_height(_the_string);
+	_height = string_height(current_dialogue.message_text);
 	if (sprite_get_height(current_dialogue.sprite) > _height) {
 		_height = sprite_get_height(current_dialogue.sprite);
 	}
@@ -31,7 +29,8 @@ if (showing_dialogue == true) {
 	}
 	
 	draw_set_color(c_white);
-	draw_text_ext(_text_x, _text_y, current_dialogue.message_text, 16, display_get_gui_width() - 192);
+	draw_set_font(fnt_dialogue);
+	draw_text_ext(_text_x, _text_y, current_dialogue.message_text, 36, display_get_gui_width() - 192);
 	
 	alpha = lerp(alpha, 1, 0.06);
 }

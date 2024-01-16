@@ -1,5 +1,4 @@
 var _player_exists = false;
-var _timer_run = true;
 
 _player_exists = instance_exists(obj_player);
 
@@ -25,7 +24,7 @@ if(_player_exists)
 	}
 	
 	// Draws the timer in the top left currently
-	if _timer_run
+	if timer_run
 	{
 		timer += time.delta_time
 		milliseconds = floor(timer/10000) % 100;

@@ -103,6 +103,7 @@
     {"name":"obj_sword_attack","order":4,"path":"objects/obj_sword_attack/obj_sword_attack.yy",},
     {"name":"spr_gate_iron_2","order":6,"path":"sprites/spr_gate_iron_2/spr_gate_iron_2.yy",},
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},
+    {"name":"fnt_dialogue","order":2,"path":"fonts/fnt_dialogue/fnt_dialogue.yy",},
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"spr_next_level","order":13,"path":"sprites/spr_next_level/spr_next_level.yy",},
     {"name":"obj_player_defeated","order":6,"path":"objects/obj_player_defeated/obj_player_defeated.yy",},
