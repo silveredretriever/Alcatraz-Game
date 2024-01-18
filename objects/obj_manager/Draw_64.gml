@@ -26,7 +26,8 @@ if(_player_exists)
 	// Draws the timer in the top left currently
 	if timer_run
 	{
-		timer += time.delta_time
+		show_debug_message(timer);
+		timer += time.delta_time;
 		milliseconds = floor(timer/10000) % 100;
 		seconds = floor(timer/1000000) % 60;
 		if string_length(string(seconds)) < 2

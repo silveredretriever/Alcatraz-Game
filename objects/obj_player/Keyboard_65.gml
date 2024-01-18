@@ -3,7 +3,7 @@
 x += -move_speed;
 
 // Walk to side sprite
-sprite_index = spr_player_walk_side;
+sprite_index = spr_hunter_idle;
 image_index += 0;
 
 // Since it's using the same

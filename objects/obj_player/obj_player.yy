@@ -39,8 +39,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_idle",
-    "path": "sprites/spr_player_idle/spr_player_idle.yy",
+    "name": "spr_hunter_walk",
+    "path": "sprites/spr_hunter_walk/spr_hunter_walk.yy",
   },
   "spriteMaskId": {
     "name": "spr_player_idle",
