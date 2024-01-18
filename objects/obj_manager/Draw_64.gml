@@ -26,17 +26,20 @@ if(_player_exists)
 	// Draws the timer in the top left currently
 	if timer_run
 	{
-		show_debug_message(timer);
-		timer += time.delta_time;
+		timer += delta_time;
 		milliseconds = floor(timer/10000) % 100;
+		if string_length(string(milliseconds)) < 2
+		{
+			milliseconds = string("0") + string(milliseconds);
+		}
 		seconds = floor(timer/1000000) % 60;
 		if string_length(string(seconds)) < 2
 		{
 			seconds = string("0") + string(seconds);
 		}
 		minutes = floor(timer/60000000);
-		time = string(minutes) + ":" + string(seconds) + "." + string(milliseconds);
+		running_time = string(minutes) + ":" + string(seconds) + "." + string(milliseconds);
 	
-		draw_text(15, 15, time);
+		draw_text(15, 15, running_time);
 	}
 }

@@ -3,7 +3,7 @@
 x += move_speed;
 
 // Walk to side sprite
-sprite_index = spr_hunter_idle;
+sprite_index = spr_hunter_walk;
 image_index += 0;
 
 // Reset the horizontal scale
