@@ -13,6 +13,7 @@
     {"name":"Shaders","order":16,"path":"folders/Shaders.yy",},
     {"name":"Dialogue Sprites","order":1,"path":"folders/Sprites/Dialogue Sprites.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
+    {"name":"Item Pickups","order":8,"path":"folders/Objects/Game/Item Pickups.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},
@@ -68,6 +69,7 @@
     {"name":"spr_hunter_idle","order":9,"path":"sprites/spr_hunter_idle/spr_hunter_idle.yy",},
     {"name":"spr_key","order":1,"path":"sprites/spr_key/spr_key.yy",},
     {"name":"spr_bones_pile_1","order":1,"path":"sprites/spr_bones_pile_1/spr_bones_pile_1.yy",},
+    {"name":"Inventory","order":1,"path":"scripts/Inventory/Inventory.yy",},
     {"name":"spr_gate_wood_2","order":8,"path":"sprites/spr_gate_wood_2/spr_gate_wood_2.yy",},
     {"name":"spr_button","order":3,"path":"sprites/spr_button/spr_button.yy",},
     {"name":"spr_barrel_big","order":1,"path":"sprites/spr_barrel_big/spr_barrel_big.yy",},
@@ -103,6 +105,7 @@
     {"name":"spr_player_walk_up","order":3,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
     {"name":"obj_chest","order":4,"path":"objects/obj_chest/obj_chest.yy",},
     {"name":"spr_entrance_particle","order":8,"path":"sprites/spr_entrance_particle/spr_entrance_particle.yy",},
+    {"name":"obj_test_item","order":1,"path":"objects/obj_test_item/obj_test_item.yy",},
     {"name":"obj_sword_attack","order":4,"path":"objects/obj_sword_attack/obj_sword_attack.yy",},
     {"name":"spr_gate_iron_2","order":6,"path":"sprites/spr_gate_iron_2/spr_gate_iron_2.yy",},
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},

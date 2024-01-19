@@ -27,10 +27,10 @@ if(_player_exists)
 	var _heart_height = sprite_get_height(spr_hud_heart);
 	_width_count = 0;
 	draw_set_font(fnt_item_hud);
-	for (var _iterate = array_length(inventory); _iterate > 0; --_iterate) {
-		draw_sprite(inventory[array_length(inventory) - _iterate].sprite, 0, 15 + _width_count, view_hport - (65 + _heart_height));
-		_width_count += sprite_get_width(inventory[array_length(inventory)-_iterate].sprite)
-		draw_text(_width_count, view_hport - (45 + _heart_height), string(inventory[array_length(inventory)-_iterate].count));
+	for (var _iterate = inventory.count(); _iterate > 0; --_iterate) {
+		draw_sprite(inventory.get(inventory.count()-_iterate).sprite, 0, 15 + _width_count, view_hport - (65 + _heart_height));
+		_width_count += sprite_get_width(inventory.get(inventory.count()-_iterate).sprite)
+		draw_text(_width_count, view_hport - (45 + _heart_height), string(inventory.get(inventory.count()-_iterate).amount));
 	}
 	
 	// Draws the timer in the top left currently

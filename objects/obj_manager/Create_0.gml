@@ -16,4 +16,4 @@ running_time = "0:00.00";
 
 timer_run = true;
 
-inventory = [{name:"coin", sprite:spr_hud_coin, count:2}];
+inventory = new Inventory();
