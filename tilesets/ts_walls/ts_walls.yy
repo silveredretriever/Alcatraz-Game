@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "ts_walls",
   "autoTileSets": [
-    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"wall","closed_edge":false,"tiles":[
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"wall","closed_edge":true,"tiles":[
         1,
         2,
         3,
