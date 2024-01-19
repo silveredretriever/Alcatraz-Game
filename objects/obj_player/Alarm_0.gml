@@ -1,5 +1,7 @@
-/// @DnDAction : YoYo Games.Rooms.Restart_Room
-/// @DnDVersion : 1
-/// @DnDHash : 13240197
-/// @DnDComment : Restart the level
-room_restart();
+speed = 0;
+image_blend = $FFFFFFFF & $ffffff;
+image_alpha = ($FFFFFFFF >> 24) / $ff;
+
+if hearts == 0 {
+	instance_change(obj_player_defeated, true);
+}

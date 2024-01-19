@@ -3,5 +3,6 @@
 y += move_speed;
 
 // Walk down sprite
-sprite_index = spr_player_walk_down;
+sprite_index = spr_hunter_walk;
 image_index += 0;
+input_direction = 270;

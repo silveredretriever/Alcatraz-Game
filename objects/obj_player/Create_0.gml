@@ -7,3 +7,10 @@ move_speed = 4;
 
 // Initialize coins value at 0
 coins = 0;
+
+// Health variables
+max_hearts = 5;
+hearts = max_hearts;
+
+// Input direction
+input_direction = 0;
