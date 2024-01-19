@@ -51,6 +51,7 @@
     {"name":"obj_enemy_parent","order":1,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
     {"name":"spr_baddie_defeat","order":6,"path":"sprites/spr_baddie_defeat/spr_baddie_defeat.yy",},
     {"name":"spr_black_background","order":9,"path":"sprites/spr_black_background/spr_black_background.yy",},
+    {"name":"fnt_item_hud","order":3,"path":"fonts/fnt_item_hud/fnt_item_hud.yy",},
     {"name":"spr_logo","order":4,"path":"sprites/spr_logo/spr_logo.yy",},
     {"name":"obj_pillar_half","order":7,"path":"objects/obj_pillar_half/obj_pillar_half.yy",},
     {"name":"spr_gate_gold_2","order":10,"path":"sprites/spr_gate_gold_2/spr_gate_gold_2.yy",},

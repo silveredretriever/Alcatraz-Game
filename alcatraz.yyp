@@ -106,6 +106,7 @@
     {"id":{"name":"snd_coin","path":"sounds/snd_coin/snd_coin.yy",},},
     {"id":{"name":"spr_baddie_defeat","path":"sprites/spr_baddie_defeat/spr_baddie_defeat.yy",},},
     {"id":{"name":"spr_black_background","path":"sprites/spr_black_background/spr_black_background.yy",},},
+    {"id":{"name":"fnt_item_hud","path":"fonts/fnt_item_hud/fnt_item_hud.yy",},},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},},
     {"id":{"name":"obj_pillar_half","path":"objects/obj_pillar_half/obj_pillar_half.yy",},},
     {"id":{"name":"spr_gate_gold_2","path":"sprites/spr_gate_gold_2/spr_gate_gold_2.yy",},},
