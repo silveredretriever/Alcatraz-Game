@@ -5,6 +5,7 @@
     {"name":"Notes","order":19,"path":"folders/Notes.yy",},
     {"name":"Dialogue","order":5,"path":"folders/Objects/Dialogue.yy",},
     {"name":"Enemies","order":1,"path":"folders/Objects/Game/Enemies.yy",},
+    {"name":"Item Pickups","order":8,"path":"folders/Objects/Game/Item Pickups.yy",},
     {"name":"Level","order":1,"path":"folders/Objects/Level.yy",},
     {"name":"Lighting_Effects","order":2,"path":"folders/Objects/Lighting_Effects.yy",},
     {"name":"Menu","order":3,"path":"folders/Objects/Menu.yy",},
@@ -13,7 +14,6 @@
     {"name":"Shaders","order":16,"path":"folders/Shaders.yy",},
     {"name":"Dialogue Sprites","order":1,"path":"folders/Sprites/Dialogue Sprites.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
-    {"name":"Item Pickups","order":8,"path":"folders/Objects/Game/Item Pickups.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_barrel_big","order":3,"path":"objects/obj_barrel_big/obj_barrel_big.yy",},

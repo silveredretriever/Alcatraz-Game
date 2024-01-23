@@ -4,16 +4,16 @@ _player_exists = instance_exists(obj_player);
 
 if(_player_exists)
 {
-	// Draw the HUD coin sprite
-	draw_sprite(spr_hud_coin, 0, view_wport - 160, 25);
 
 	// Change the font to ft_hud
 	draw_set_font(fnt_hud);
+	draw_set_halign(fa_right);
 
 	// Draw the player's coins value
 	// Taken from the player
 	// using obj_player.coins
-	draw_text(view_wport - 120, 15, string("x") + string(obj_player.coins));
+	draw_text(view_wport - 40, 15, string(obj_player.points));
+	draw_set_halign(fa_left);
 	
 	// Draws the health in the bottom left
 	var _heart_width = sprite_get_width(spr_hud_heart);

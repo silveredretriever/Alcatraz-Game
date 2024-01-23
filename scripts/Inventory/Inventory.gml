@@ -2,6 +2,13 @@ function Inventory() constructor {
 	_inventory = [];
 	
 	add = function(_name, _sprite, _count) {
+		for (var _iterate = array_length(_inventory); _iterate > 0; --_iterate) {
+			if (_name == _inventory[array_length(_inventory) - _iterate].name) {
+				_inventory[array_length(_inventory) - _iterate].amount += _count;
+				return;
+			}
+		}
+		
 		array_push(_inventory, {
 			name: _name,
 			sprite: _sprite,

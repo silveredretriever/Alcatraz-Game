@@ -5,8 +5,8 @@
 // pixels-per-second.
 move_speed = 4;
 
-// Initialize coins value at 0
-coins = 0;
+// Initialize score value at 0
+points = 0;
 
 // Health variables
 max_hearts = 5;

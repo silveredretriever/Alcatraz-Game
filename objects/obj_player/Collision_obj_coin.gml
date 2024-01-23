@@ -1,1 +1,1 @@
-coins += 1;
+points += 100;
